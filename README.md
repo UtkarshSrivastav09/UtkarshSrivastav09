@@ -79,8 +79,8 @@ Certificates: [Cisco](https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-srivastav-b433bb33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-srivastav-b433bb33a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/utkarsh_srivastav09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/utkarsh_srivastav09/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utkarsh-srivastav-b433bb33a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-srivastav-b433bb33a/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/utkarsh_srivastav09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/utkarsh_srivastav09/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
