@@ -18,6 +18,8 @@
 > <p align="center">
 >  <a href="https://www.linkedin.com/in/utkarsh-srivastav-b433bb33a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 >   <a href="https://utkarshsrivastav09.github.io/Utkarsh-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+>
+> 
 >   <a href="mailto:utkarshsrivastav2206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 >   <a href="https://drive.google.com/file/d/1K1SUhYmiQrX-zWHeR5K3fzIdWr8cYq6V/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
