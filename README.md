@@ -69,8 +69,10 @@
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link"><h2>Cisco Certified</h3>  
-</a>
+<!-- <a href="https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link"><h2>Cisco Certified</h3>  
+</a> -->
+
+Certificates: [Cisco Certified](https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link)
  
 </p>
 </div>
