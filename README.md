@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Utkarsh Srivastav
+#### I am Backend Developer & Full Stack Developer
+![I am Backend Developer & Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**UtkarshSrivastav09/UtkarshSrivastav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full-Stack Developer and AI enthusiast who loves building real-world projects using modern technologies.
 
-Here are some ideas to get you started:
+I enjoy working with the MERN stack, integrating AI/ML into applications, and solving challenging DSA & LeetCode problems. I’m always curious about how things work under the hood and constantly improving my skills by building and breaking things 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:  React, Redux, HTML5, CSS3, MongoDB, MySQL, PostgreSQL, AWS, AWS Lambda, Docker, Kubernetes, CI/CD Pipelines, Git, GitHub, Bitbucket, Jira, Postman, Swagger, Unit  Testing, Integration Testing, Agile/Scrum, SDLC 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
