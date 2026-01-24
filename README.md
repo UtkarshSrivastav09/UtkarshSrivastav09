@@ -72,7 +72,7 @@
 <!-- <a href="https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link"><h2>Cisco Certified</h3>  
 </a> -->
 
-Certificates: [Cisco Certified](https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link), [Oracle Certified](https://drive.google.com/file/d/1KaCT6UUNTX6iEkt2nNMzK9lqgwAi7duK/view?usp=sharing)
+Certificates: [Cisco](https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=drive_link), [Oracle](https://drive.google.com/file/d/1KaCT6UUNTX6iEkt2nNMzK9lqgwAi7duK/view?usp=sharing), [Forage](https://drive.google.com/file/d/1T4VC-4eh47yMyy98lN9OJKlO0MDY72gE/view?usp=sharing), [McKinsey Org](https://drive.google.com/file/d/1eYDIz_VdwKstVZXBQCzqnUg1AqkX_Cqe/view?usp=sharing), [TCS](https://drive.google.com/file/d/1_X0Zv9iR-AzQCPxDmcXJ27XDCB59_p2s/view?usp=sharing)
  
 </p>
 </div>
