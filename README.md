@@ -15,19 +15,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
 </a>
 
-> [!NOTE]
-> - 🚙 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
-
-> [!IMPORTANT]
-> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
-
-
-> [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
-
-> [!TIP]  
-> - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
-
 > <p align="center">
 >  <a href="https://www.linkedin.com/in/walidbosso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 >   <a href="http://walidbosso.byethost12.com/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
