@@ -69,8 +69,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/walidbosso/details/certifications" title="💻 My Certificates"><img src="./images/Certificates1.png" alt="Cert" width="200px" height="200px" /></a>
-<a href="https://www.linkedin.com/in/walidbosso/details/education" title="🎓 Master's in Computer Science Engineering, University Abdelmalek Essaâd"><img src="./images/uae.png" alt="Uni" width="" height="200px" /></a>
+<a href="https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=sharing" title="💻 My Certificates"><img src="https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mrap7oOQG/view?usp=sharing" alt="Cert" width="200px" height="200px" /></a>
  
 </p>
 </div>
