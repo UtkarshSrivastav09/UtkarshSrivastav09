@@ -78,4 +78,4 @@ Certificates: [Cisco](https://drive.google.com/file/d/1wbk1KBsGtmjYQJdSKvc_vR3Mr
 </p>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshsrivastav09&show_icons=true&locale=en&layout=compact" alt="utkarshsrivastav09" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshsrivastav09&show_icons=true&locale=en&layout=compact" alt="utkarshsrivastav09" /></p> -->
