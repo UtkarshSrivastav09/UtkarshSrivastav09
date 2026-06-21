@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Srivastav</h1>
 <h3 align="center">A Passionate Backend Developer & Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Full Stack Library Management System](https://library-management-system-major-pro.vercel.app/)
+- 🔭 I’m currently working on [MedAI Clinical Decision Support System](https://med-ai-clinical-decision-support-sy.vercel.app)
 
 - 🌱 I’m currently learning **AI/ML and Generative AI**
 
